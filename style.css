@@ -5,6 +5,12 @@ h1 {
 }
 
 .link {
+    display: block;
+    background-color: aliceblue;
+    width: fit-content;
+    padding: 20px;
+    margin: auto;
+    border: 5px dotted black;
     font-size: 40px;
     font-family: "Verdana", sans-serif;
     text-align: center;
